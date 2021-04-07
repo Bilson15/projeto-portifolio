@@ -65,3 +65,6 @@ p {
 a {
     text-decoration: none;
 }
+p:hover {
+    background-color: hsla(42.4,100%,70.6%);
+}
