@@ -66,5 +66,7 @@ a {
     text-decoration: none;
 }
 p:hover {
+    transition: color 0.6s;
     background-color: hsla(42.4,100%,70.6%);
+    color: black;
 }
